@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Filipes111007
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C, Python
+- 🌱 I’m currently learning C, C++ and Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
